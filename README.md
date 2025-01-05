@@ -1,5 +1,5 @@
 # Bildverarbeitungs- und Steganographie-Tool
-** Gruppe: PKI-B2-4 **
+**Gruppe: PKI-B2-4**
 
 ## Überblick
 Diese Anwendung ist ein vielseitiges Bildverarbeitungstool mit integrierter [Steganographie-Funktionalität](docs/README-StegoTool.md). Es ermöglicht Benutzern, Bilder auf verschiedene Arten zu bearbeiten und zu analysieren sowie versteckte Informationen in Bildern zu speichern.
